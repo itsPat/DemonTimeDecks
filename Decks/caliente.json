@@ -1,13 +1,12 @@
 [
     {
         "type": "Truth",
-        "prompt": "{{NAME}}, you have to tell everyone how you lost your virginity otherwise take a penalty.",
+        "prompt": "{{NAME}}, you have to tell everyone how you lost your virginity otherwise take a penalty",
         "playersRequired": 1
     },
     {
         "type": "Rule",
-        "prompt": "every time someone swears, the person to their right gets to slap them.",
-        "terminationText": "",
+        "prompt": "every time someone swears, the person to their right gets to slap them",
         "playersRequired": 0
     },
     {
@@ -16,8 +15,518 @@
         "playersRequired": 1
     },
     {
+        "type": "Spicy",
+        "prompt": "Everyone kiss the person to your right, regardless of gender",
+        "playersRequired": 0
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, kiss the person you are attracted to the most on the cheek. Whoever gets kissed: if you are also secretly attracted to {{NAME}}, turn your cheek to kiss them just before",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Everyone take off 1 piece of clothing. No way out of this one",
+        "playersRequired": 0
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, take off a piece of clothing or take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, take off another piece of clothing or take as many penalties as there are girls in the circle",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "If {{NAME}} still has their shirt on, they must take it off or take 3 penalties",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "Each blonde in the room gets to pick 2 people that have to kiss right now. If they refuse, {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Spicy",
+        "prompt": "Girls in the room vote for 2 people in the group to kiss each other. If they refuse, they have to take a penalty OR take off one item of clothing",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "If {{NAME}} has ever had a threesome they can pick 1 person to take a . If not, they take {{NUM_PENALTIES}}  themselves",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, show the group an intimate part of your body or take 5 penalties",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "The girl with the biggest boobs has to temporarily show them to the group. If she refuses, she takes 4 penalties.",
+        "playersRequired": 0
+    },
+    {
         "type": "Game",
         "prompt": "Each person has to tell the story of the weirdest place they've ever had sex. If they refuse, they take 3 penalties",
         "playersRequired": 0
+    },
+    {
+        "type": "Spicy",
+        "prompt": "The player who last had sex has to pick 1 person to make out with for 10 seconds. If they refuse, they each take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Game",
+        "prompt": "\"The NAME Game.\" Each person has to say the name of someone they had sex with. If a name in the group is repeated, or they run out of name, they take 3 penalties. Play until someone loses. {{NAME}} starts",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Take 3 penalties if you've ever made out with someone of the same sex",
+        "playersRequired": 0
+    },
+    {
+        "type": "Game",
+        "prompt": "\"First Partner.\" Everyone has to say the name of the first person they had sex with. On the second turn, the second person they had sex with, and so on. If they forget or have no more names left, they take 4 penalties. {{NAME}}, you start",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, choose someone and give them a hickey, whever they want. Take 4 penalties if either of you refuses",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, go take off your underwear and come back. If you refuse, 6 penalties",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Girls vs Guys\". Count up the number of people the players from each gender have had sex with. The gender has been with less needs to be more horny and therefore has to take off an article of clothing",
+        "playersRequired": 0
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, guess how many people {{NAME2}} has been with. If you are off by more than 5 you must take off a piece of clothing. If were off by 3 or less, {{NAME2}} has to",
+        "playersRequired": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, tell everyone who you'd most like to sleep with or take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, choose one person to give a 15 sec lap dance to, or take 3 penalties",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, search for \"sorry\" in iMessage, read the first message that appears or take a penalty",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}} has to fake moan for 5 seconds or take {{NUM_PENALTIES}}",
+        "playersRequired": 1
+    },
+    {
+        "type": "Rule",
+        "prompt": "Every time you say someone's name you need to say it in a sexual, moaning way. If you forget, the person to your right spanks you",
+        "playersRequired": 0
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}} gets to pick 1 person to take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, tell everyone if you've been turned on during this game or take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}} show everyone the last nude you took. If you don't have any, show everyone IRL. If you refuse, take {{NUM_PENALTIES}}",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, pick 1 person to describe their last sexual experience in detail. If they refuse they take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"FMK\". Everyone has to say who they would Fuck, Marry, Kill in the group. {{NAME}} you start",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Never have I ever\". Each person has to come up with 1 thing they have never done. If you have done the thing, you take a penalty. The first to take 5 penalties loses and the game ends",
+        "playersRequired": 0
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take 1 penalty if you've ever sent a nude",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "All players who have had sex with an ex post-breakup have to take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "All players who have kissed a friend's sibling take 3 penalties. 1 penalty if a cousin",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "Raise your hand on the count of 3 if you've had sex with someone from a dating app. Those who raised their hand have to take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Groupie Alert!\" On the count of 3, everyone point to the person who is most likely to have DM'd a celebrity hoping to hook up. If true, the person has to say who and take {{NUM_PENALTIES}}. If false, everyone else takes {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}} has to text their ex a selfie with no context right now. If not, they take {{NUM_PENALTIES}}",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}: do rock, paper, scissors with {{NAME2}}. If {{NAME}} wins, you both kiss. If not, {{NAME2}} gets to slap you",
+        "playersRequired": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "Everyone in the room who has had sex outside has to raise their hand. The last person to raise their hand has to tell the story",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "If {{NAME}} can't list every single person they've had sex with right now they have to take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Everyone who has had sex with a coworker raise their hand and state how long ago the last time was. The person who did it most recently has to remove an article of clothing",
+        "playersRequired": 0
+    },
+    {
+        "type": "Game",
+        "prompt": "\"The Freakiest\". On the count of 3, everyone point to the player who is most likely to be the kinkiest in the group. That person has to take off an article of clothing or take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Spicy",
+        "prompt": "On the count of 3, everyone point to the person who is the most likely to have a nipple piercing. If the other players are right, the person has to show everyone. If the other players are wrong, they all have to take {{NUM_PENALTIES}}",
+        "playersRequired": 0
+    },
+    {
+        "type": "Spicy",
+        "prompt": "\"Spin the bottle\". You know the rules. {{NAME}} spins and has to kiss whoever it lands on. If the bottle points back at them, they have to take off an article of clothing",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, would you rather have a naked picture of you become an internet meme, or be caught on camera naked during a live national broadcast? Give out 1 penalty to someone in the group after answering",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, if you have ever had a sexual fantasy about a teacher, take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, if you have ever had sex with someone who was married take {{NUM_PENALTIES}} . If not, ask the question to someone else in the group. Each time the question gets asked, the number of  goes up by one. If no one has, everyone takes 3 ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}} has to demonstrate their favorite sex position or take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Most likely to\". On the count of 3, everyone points to the person most likely to sign up to be a sugar baby. That person must take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Rule",
+        "prompt": "{{NAME}}: switch shirts with {{NAME2}}. You are officially \"locked in.\" Every penalty that one takes, the other takes as well",
+        "playersRequired": 2
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Future MILF/DILF.\" On the count of 3, everyone point to the person who will be the hottest MILF/DILF. That person has to take off clothing just for being so steamy",
+        "playersRequired": 0
+    },
+    {
+        "type": "Dare",
+        "prompt": "Everyone who has slept with someone in a relationship raise your hand. The first one to raise their hand is naughty af and needs to take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Rule",
+        "prompt": "{{NAME}}: you get to make up a new rule. Get creative. Make it juicy",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "For each player, if you've hooked up with someone in the room, do not say their name, just go and make out with them for 5 seconds. {{NAME}}, you start",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Everyone state when they last had sex. The one with the longest dry spell needs to loosen up. Take {{NUM_PENALTIES}} ",
+        "playersRequired": 0
+    },
+    {
+        "type": "Rule",
+        "prompt": "{{NAME}}, you must sit next to {{NAME2}} and put your hand on their inner thigh. For every time that your hand leaves their thigh, you need to take {{NUM_PENALTIES}} ",
+        "playersRequired": 2
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}: you have to go nibble {{NAME2}}'s ear. If you refuse, take {{NUM_PENALTIES}} ",
+        "playersRequired": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, pick a guy in the group. He has to tell everyone his length. If he refuses, he has to take off an article of clothing",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "Okay, {{NAME}}, pick a girl in the group and guess her bra size. If you are right, she has to take off her shirt permanently. If you are wrong, then you have to. {{NUM_PENALTIES}}  if either of you refuse",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}} gets to pick 1 person to take off an article of clothing. They take {{NUM_PENALTIES}}  if they refuse",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}: go suck {{NAME2}}'s finger for 5 seconds. If you refuse, both take {{NUM_PENALTIES}} ",
+        "playersRequired": 2
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, if you would have sex with more than one person in the room, take 2 penalties",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}: go slap {{NAME2}}'s ass. Hard. Give them a nice little mark. {{NUM_PENALTIES}}  for them if they refuse",
+        "playersRequired": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: if you've been choked during sex before, take a penalty. If not, pass it to someone else. Keep going until someone takes a penalty",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}} has to tell everyone their proudest sexual skill. If not, they take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"The Movie Game.\" Everyone has to summarize their sex life with a movie title. The player with the funniest one gets to give out a penalty. {{NAME}}: you start",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: have you ever thought about {{NAME2}} sexually? If you refuse to answer, take {{NUM_PENALTIES}} ",
+        "playersRequired": 2
+    },
+    {
+        "type": "Spicy",
+        "prompt": "Who has slept with the least number people? {{NAME}}, {{NAME2}}, or {{NAME3}}? Whoever it is is too innocent: go kiss the person who has slept with the most or take {{NUM_PENALTIES}} ",
+        "playersRequired": 3
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: have you ever been caught masturbating? If so, tell the story",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "Is {{NAME}} a good kisser? {{NAME2}}, find out and tell the group. Maximum penalty if you refuse",
+        "playersRequired": 2
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, describe your nipples as you would to a blind person. If you can't do it with a straight face, you have to take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}} has to tell everyone an orgasm they immediately regretted. Otherwise, they take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: tell us a sexual fantasy you have yet to try",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: have you ever filmed yourself having sex? If so, when was the last time you watched it?",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Everyone who has hooked up with someone after they threw up has to take a penalty right now",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: tell us something you find attractive about {{NAME2}}. No dodging the question",
+        "playersRequired": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, tell us an embarrassing story involving a mess made during sex",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "Everyone list the oldest person they've had sex with. The person who wins is a freak and needs to take {{NUM_PENALTIES}}  right now. Start us off, {{NAME}}",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, if you were in a porno, what category would it be? (The person who ends up laughing the hardest needs to take a penalty)",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "The youngest guy in the room needs to tell everyone a story about an inappropriate boner they had to hide",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "To the shortest girl in the room: tell everyone about a time you had to change your underwear from being so wet. If you refuse, take 5 penalties",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: who has had sex more? You or your parents?",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: quickly tell everyone your opinion on unprotected sex",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Porn categories.\" Everyone has to say the weirdest porn category they've ever used. The group votes on the weirdest and that person has to take {{NUM_PENALTIES}} . {{NAME}}, you start",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: have you ever called anyone \"daddy\" or been called it during sex? If not, you're not kinky enough. Take {{NUM_PENALTIES}} . If you have, give {{NUM_PENALTIES}}  to someone else",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}} has to act out doggystyle with {{NAME2}}. If either refuses, both take off 1 item of clothing",
+        "playersRequired": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, would you ever do OnlyFans? Do you have one?",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, what's an epic sexual experience you had? Give us the juicy details. The group votes on whether the story was juicy. Take {{NUM_PENALTIES}}  if the majority said no",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, have you ever thought about someone else during sex? Take {{NUM_PENALTIES}}  if so",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Morning sex or late night sex? Go around the circle with each person answering. The group with the least number of votes needs to take {{NUM_PENALTIES}} . {{NAME}} starts",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "Everyone try and guess {{NAME}}'s type. The person who gets the closest gets to hand out {{NUM_PENALTIES}}  to anyone they choose",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Tell us a turnoff of yours, {{NAME}}",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, have you ever used handcuffs in bed? If so, tell the story and then give 2  to 2 players. If not, take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"The Number.\" Everyone has to describe the number of people they've slept with as an item you can purchase for the same number in dollars. Everyone votes on the best answer. The winner gets to give 5 penalties to another player",
+        "playersRequired": 0
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, why would someone say you're bad at sex? Give us an honest criticism you might hear or that you've heard. Give out {{NUM_PENALTIES}}  for your bravery",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}: give everyone a detailed description of the landscaping process for \"down there.\" {{NUM_PENALTIES}} if you refuse",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, if {{NAME2}} were a hooker, how much would they cost? Why? And would you pay? (If {{NAME}} says yes, they have to peck {{NAME2}} on the lips.)",
+        "playersRequired": 2
+    },
+    {
+        "type": "Rule",
+        "prompt": "If {{NAME}} has a sex playlist, they have to play it on shuffle right now. If not, they have to take 5 penalties",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, spin the phone in the center of the circle. The person who it points to has to feel you up (boobs for girls, \"down there\" for guys.) Maximum penalty if you refuse",
+        "playersRequired": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, tell the group a crazy place you did something sexual in high school. If you don't have anything juicy to say, then you have to take {{NUM_PENALTIES}} ",
+        "playersRequired": 1
+    },
+    {
+        "type": "Game",
+        "prompt": "\"Confession Corner\". Everyone has to confess something bad they did recently. The naughtiest of them all gets to give out {{NUM_PENALTIES}}  to someone. {{NAME}} starts",
+        "playersRequired": 1
+    },
+    {
+        "type": "Rule",
+        "prompt": "Everyone has to go by the names of the person they lost their virginity to. If you do not address someone by this name, you take {{NUM_PENALTIES}} . The rule is in effect once everyone has stated their new name. {{NAME}}, please start",
+        "playersRequired": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "{{NAME}}, let {{NAME2}} prank call your ex. Take of a piece of clothing if you refuse",
+        "playersRequired": 2
     }
 ]
