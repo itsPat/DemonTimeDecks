@@ -12,7 +12,7 @@ with open(filename) as fp:
             dict_to_add = {
                 "type": row[1],
                 "prompt": row[0],
-                "minPlayersRequired": row[4]
+                "minPlayersRequired": int(row[4])
             }
             if row[1] == "Rule":
                 dict_to_add["terminationText"] = row[3]
@@ -22,3 +22,4 @@ with open(filename) as fp:
 
 with open('caliente.json', 'w') as f:
     json.dump(final_data, f)
+    print("Done!")
