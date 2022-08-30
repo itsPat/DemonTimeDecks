@@ -7,6 +7,7 @@
     {
         "type": "Rule",
         "prompt": "every time someone swears, the person to their right gets to slap them",
+        "terminationText": "Go back to swearing freely. No more slaps you naughty chickens",
         "playersRequired": 0
     },
     {
@@ -137,6 +138,7 @@
     {
         "type": "Rule",
         "prompt": "Every time you say someone's name you need to say it in a sexual, moaning way. If you forget, the person to your right spanks you",
+        "terminationText": "You no longer have to moan people's names",
         "playersRequired": 0
     },
     {
@@ -262,6 +264,7 @@
     {
         "type": "Rule",
         "prompt": "{{NAME}}: switch shirts with {{NAME2}}. You are officially \"locked in.\" Every penalty that one takes, the other takes as well",
+        "terminationText": "{{NAME}}, give back {{NAME2}}'s shirt. Unless you want to be weird. You're no longer locked in",
         "playersRequired": 2
     },
     {
@@ -277,6 +280,7 @@
     {
         "type": "Rule",
         "prompt": "{{NAME}}: you get to make up a new rule. Get creative. Make it juicy",
+        "terminationText": "Okay, {{NAME}}, your rule has come to an end",
         "playersRequired": 1
     },
     {
@@ -291,7 +295,8 @@
     },
     {
         "type": "Rule",
-        "prompt": "{{NAME}}, you must sit next to {{NAME2}} and put your hand on their inner thigh. For every time that your hand leaves their thigh, you need to take {{NUM_PENALTIES}} ",
+        "prompt": "{{NAME}}, you must sit next to {{NAME2}} and put your hand on their inner thigh. For every time that your hand leaves their thigh, you need to take {{NUM_PENALTIES}}",
+        "terminationText": "{{NAME}}, you no longer need to have your hand on {{NAME2}}'s thigh. Feel free to leave it though...",
         "playersRequired": 2
     },
     {
@@ -502,6 +507,7 @@
     {
         "type": "Rule",
         "prompt": "If {{NAME}} has a sex playlist, they have to play it on shuffle right now. If not, they have to take 5 penalties",
+        "terminationText": "{{NAME}}, turn off your playlist. We're over it...",
         "playersRequired": 1
     },
     {
@@ -522,6 +528,7 @@
     {
         "type": "Rule",
         "prompt": "Everyone has to go by the names of the person they lost their virginity to. If you do not address someone by this name, you take {{NUM_PENALTIES}} . The rule is in effect once everyone has stated their new name. {{NAME}}, please start",
+        "terminationText": "Okay, you're all virgins again. No more fake names based on the person you lost your virginity to",
         "playersRequired": 1
     },
     {
