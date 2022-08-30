@@ -16,8 +16,8 @@
         "playersRequired": 1
     },
     {
-        "type": "Spicy",
-        "prompt": "Everyone kiss the person to your right, regardless of gender",
+        "type": "Game",
+        "prompt": "Each person has to tell the story of the weirdest place they've ever had sex. If they refuse, they take 3 penalties",
         "playersRequired": 0
     }
 ]
