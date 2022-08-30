@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Truth",
+        "prompt": "{{NAME}}, you have to tell everyone how you lost your virginity otherwise take a penalty.",
+        "playersRequired": 1
+    },
+    {
+        "type": "Rule",
+        "prompt": "every time someone swears, the person to their right gets to slap them.",
+        "terminationText": "",
+        "playersRequired": 0
+    },
+    {
+        "type": "Spicy",
+        "prompt": "{{NAME}}, kiss the person you are attracted to the most on the lips. No getting out of it",
+        "playersRequired": 1
+    },
+    {
+        "type": "Spicy",
+        "prompt": "Everyone kiss the person to your right, regardless of gender",
+        "playersRequired": 0
+    }
+]
